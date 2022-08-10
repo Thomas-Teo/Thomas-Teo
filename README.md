@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0303&height=180&section=header&text=Thomas Enderson de Oliveira&fontSize=30&fontColor=000&animation=twinkling&fontAlignY=35"/> 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d50002&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Thomas;I'm+18+years+old;I+from+Brasil,+PR;I+study+Analysis+and+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
@@ -50,4 +48,4 @@
 ![Love](http://ForTheBadge.com/images/badges/built-with-love.svg)
 ![Stars](https://img.shields.io/github/stars/Thomas-Teo/Thomas-Teo.svg?style=for-the-badge&labelColor=gold&color=gold)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0303&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0303&height=150&section=footer"/>
