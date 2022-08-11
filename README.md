@@ -35,14 +35,6 @@
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 ![PostgreeSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=316192)&nbsp;
 ![Eclipse](https://img.shields.io/badge/Eclipse-0D1117?style=for-the-badge&logo=eclipse&logoColor=white&labelColor=2C2255)&nbsp;
-
-### Studying in this moment:
-
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Thomas-Teo}/count.svg" /></p> 
-<br></div>
   
 ![Markdown](http://ForTheBadge.com/images/badges/made-with-Markdown.svg)
 ![Love](http://ForTheBadge.com/images/badges/built-with-love.svg)
