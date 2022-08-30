@@ -38,6 +38,5 @@
   
 ![Markdown](http://ForTheBadge.com/images/badges/made-with-Markdown.svg)
 ![Love](http://ForTheBadge.com/images/badges/built-with-love.svg)
-![Stars](https://img.shields.io/github/stars/Thomas-Teo/Thomas-Teo.svg?style=for-the-badge&labelColor=gold&color=gold)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0303&height=150&section=footer"/>
