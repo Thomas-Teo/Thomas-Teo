@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d50002&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Thomas;I'm+18+years+old;I+from+Brasil,+PR;I+study+Analysis+and+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d50002&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Thomas;I'm+19+years+old;I+from+Brasil,+PR;I+study+Analysis+and+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Thomas-Teo&show_icons=true&count_private=true&hide_border=true&title_color=ff0303&icon_color=d50002&text_color=fff&bg_color=0d1117" alt="Thomas github stats" /> 
